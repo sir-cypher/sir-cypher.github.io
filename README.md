@@ -12,6 +12,6 @@ The city of Greenwill, once the jewel of the east, lies leagues behind us in rui
 
 Rebuilding won't bring them back.  Those fool defenders that sought to impede the inevitable expansion of Dhorn.  The men, women, and children who died to our siege weaponry.  To famine.  To the opportunistic lawlessness that always follows in the wake of these conquests, before the Empire institutes iron-clad control to bring that chaos into order.  Rebuilding never brings them back, but they always return in my dreams.
 
-I know not why my mind wanders to these well-trodden paths before each looming battle.  Do I seek redemption for the horrors to which I have contributed?  Do I seek forgiveness from the dead and gone for what I have done?  Do I seek to justify the conquest of the weak with meaningless platitudes of unity & cohesion?  Or do I simply seek to get my squad through one now fight with minimal casualties?
+I know not why my mind wanders to these well-trodden paths before each looming battle.  Do I seek redemption for the horrors to which I have contributed?  Do I seek forgiveness from the dead and gone for what I have done?  Do I seek to justify the conquest of the weak with meaningless platitudes of unity & cohesion?  Or do I simply seek to get my squad through one more fight with minimal casualties?
 
 *Somewhere, I hear a bell ringing...*
