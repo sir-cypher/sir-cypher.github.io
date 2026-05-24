@@ -32,7 +32,7 @@ I know not why my mind wanders down these well-troddenpaths before each looming 
 
 ![NPC - Cleft](images/NPC - Cleft.png)
 
-Cleft is a former member of Toll's squad.  Short of stature, prematurely balding, with thin, wiry black hair, and strong as an ox.  He had a tendency to tear into enemies with a ferocity bordering on the psychotic, sowing chaos in his wake.  He was the tip of the wedge that pry open enemy formations, oftentimes sending opponents into a disastrous route.  If Toll is the immovable wall who instills fear in any enemies who come near, Cleft is the unstoppable dervish who rains fury down on his foes.
+Cleft is a former member of Toll's squad.  Short of stature, prematurely balding, with thin, wiry black hair, and strong as an ox.  He had a tendency to tear into enemies with a ferocity bordering on the psychotic, sowing chaos in his wake.  He was the tip of the wedge that would pry open enemy formations, oftentimes sending opponents into a disastrous route.  If Toll is the immovable wall who instills fear in any enemies who come near, Cleft is the unstoppable dervish who rains fury down on his foes.
 
 [Return to top](#backstory)
 
