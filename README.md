@@ -1,6 +1,3 @@
-
-  <summary><H2>Act 1: The Iron March</H2></summary>
-
 # Backstory
 ![Toll](images/Toll.jpg)
 
