@@ -30,7 +30,7 @@ I know not why my mind wanders down these well-troddenpaths before each looming 
 *Somewhere, I hear a bell ringing...*
 #### NPC Introduction: Cleft
 
-![NPC - Cleft](images/NPC - Cleft.jpg)
+![NPC - Cleft](images/NPC - Cleft.png)
 
 Cleft is a former member of Toll's squad.  Short of stature, prematurely balding, with thin, wiry black hair, and strong as an ox.  He had a tendency to tear into enemies with a ferocity bordering on the psychotic, sowing chaos in his wake.  He was the tip of the wedge that pry open enemy formations, oftentimes sending opponents into a disastrous route.  If Toll is the immovable wall who instills fear in any enemies who come near, Cleft is the unstoppable dervish who rains fury down on his foes.
 
@@ -56,7 +56,7 @@ They were being crowded toward us by their own troops, unable to retreat before 
 *With such death and betrayal... why do I feel at peace?*
 #### NPC introduction: The Dread Baron
 
-![NPC - Cleft](images/NPC - The Dread Baron.jpg)
+![NPC - The Dread Baron](images/NPC - The Dread Baron.jpg)
 
 The Dread Baron, formerly known as Baron Urnok, is a towering, imposing figure who once ruled over Deepwater and the surrounding area.  In the entirety of the Empire's eastern campaign of conquest, The Dread Baron offered the fiercest resistance.  His strategic and tactical command was so formidable, the Emperor recruited him into service after the siege, a decision that never sat right with Toll.
 
@@ -77,7 +77,7 @@ I've now been training with Alaric for several months and he feels the best path
 
 #### NPC introduction: Alaric Thorne
 
-![NPC - Cleft](images/NPC - Silas Thorne.jpg)
+![NPC - Silas Thorne](images/NPC - Silas Thorne.jpg)
 
 Alaric's prime is long behind him.  Once a holy Paladin of some repute, he now lives a hermetic life of isolation and reflection.  When he found Toll—a broken man—he saw potential beneath the former soldier's anguish and took on the role of mentor.  After a lengthy period of training & discipline, Alaric determined that Toll was ready to start down the path of becoming a Paladin.
 
