@@ -2,6 +2,7 @@
 ![Toll](images/Toll.jpg)
 
 ## Table of Contents
+* [Playlist](#playlist)
 * [Act 1 - The Iron March](#act-1---the-iron-march)
 	* [Toll](#toll)
 	* [NPC Introduction: Cleft](#npc-introduction-cleft)
@@ -11,6 +12,11 @@
 * [Act 3 - The Burden of Rule](#act-3---the-burden-of-rule)
 	* [Rise](#rise)
 	* [NPC Introduction: Alaric Thorne](#npc-introduction-alaric-thorne)
+
+## Playlist
+[![Path of Conquest](images/Playlist.png)](https://open.spotify.com/playlist/2nF0937Rd9Qz9nU585pPnV)
+
+[Return to top](#backstory)
 
 ## Act 1 - The Iron March
 ### Toll
